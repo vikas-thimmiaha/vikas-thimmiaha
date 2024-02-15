@@ -1,6 +1,4 @@
-I'm @vikas-thimmiaha, a Full Stack Developer at SAP SE from Mannheim, Germany. 
-
-- 🌱 I’m currently learning to develop full stack applications with GenAI use-cases..
+I'm @vikas-thimmiaha, a Full Stack Developer at SAP SE from Mannheim, Germany. I’m currently learning to develop full stack applications with GenAI use-cases.
 
 Let's connect and collaborate! 😊
 <!---
